@@ -6,6 +6,6 @@ Team Repo:
 
 Edison Lam
 
-https://github.com/elam3/githubRepoSearch
+https://github.com/elam3/CanvasLab
 
-![Canvas Walkthru]()
+![Canvas Walkthru](http://i.imgur.com/rqyYrrq.gif)
